@@ -1,6 +1,6 @@
 <template>
-  <div class="hello">
-    <h1>Rocklin Disc Golf Course</h1>
+  <div class="hello flex justify-center">
+    <h1 class="flex">Rocklin Disc Golf Course</h1>
     <h2>- Coming soon -</h2>
   </div>
 </template>
