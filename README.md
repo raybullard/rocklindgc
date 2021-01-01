@@ -1,4 +1,4 @@
-# test
+# Rocklin DGC
 
 ## Project setup
 ```
