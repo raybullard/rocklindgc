@@ -1,9 +1,9 @@
 <template>
   <div class="hello static">
     <div class="container mx-auto">
-      <img class="flex w-40 h-40 float-left mr-8 object-left-top relative bottom-10" src="../../public/assets/Rocklin_DGC_logo.png" alt="Rocklin DGC logo" />
-      <h1 class="flex text-5xl font-bold text-gray-800">Rocklin Disc Golf Course</h1>
-      <h2 class="flex text-2xl">- Coming soon -</h2>
+      <img class="flex w-24 h-24 ml-2 sm:ml-0 sm:w-40 sm:h-40 sm:float-left mr-8 sm:object-left-top sm:relative bottom-10" src="../../public/assets/Rocklin_DGC_logo.png" alt="Rocklin DGC logo" />
+      <h1 class="flex ml-2 sm:ml-0 text-2xl sm:text-4xl font-bold text-gray-800">Rocklin Disc Golf Course</h1>
+      <h2 class="flex text-1xl sm:text-2xl">- Coming soon -</h2>
     </div>
   </div>
 </template>
