@@ -1,7 +1,7 @@
 <template>
-  <div class="hello flex justify-center">
-    <h1 class="flex">Rocklin Disc Golf Course</h1>
-    <h2>- Coming soon -</h2>
+  <div class="hello">
+    <h1 class="flex justify-center text-5xl ">Rocklin Disc Golf Course</h1>
+    <h2 class="flex justify-center text-2xl">- Coming soon -</h2>
   </div>
 </template>
 
@@ -19,25 +19,5 @@ export default {
 .hello {
   background-color: rgba(255, 255, 255, .8);
   padding: .5rem 0;
-}
-h1 {
-  margin-bottom:0;
-}
-h2 {
-  margin-top:0.5rem;
-}
-h3 {
-  margin: 40px 0 0;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: #42b983;
 }
 </style>
