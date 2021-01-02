@@ -1,7 +1,10 @@
 <template>
-  <div class="hello">
-    <h1 class="flex justify-center text-5xl ">Rocklin Disc Golf Course</h1>
-    <h2 class="flex justify-center text-2xl">- Coming soon -</h2>
+  <div class="hello static">
+    <div class="container mx-auto">
+      <img class="flex w-40 h-40 float-left mr-8 object-left-top relative bottom-10" src="../../public/assets/Rocklin_DGC_logo.png" alt="Rocklin DGC logo" />
+      <h1 class="flex text-5xl font-bold text-gray-800">Rocklin Disc Golf Course</h1>
+      <h2 class="flex text-2xl">- Coming soon -</h2>
+    </div>
   </div>
 </template>
 
